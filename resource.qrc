@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/">
+    <file>res/file-download-line.svg</file>
+    <file>res/file-upload-line.svg</file>
+    <file>res/file-3-line.svg</file>
+    <file>res/file-add-fill.svg</file>
+    <file>res/file-add-line.svg</file>
+    <file>res/file-reduce-fill.svg</file>
+    <file>res/file-reduce-line.svg</file>
+    <file>res/file-settings-line.svg</file>
+    <file>res/folder-open-line.svg</file>
+    <file>res/save-line.svg</file>
+  </qresource>
+</RCC>
